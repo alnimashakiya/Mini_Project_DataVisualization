@@ -40,3 +40,5 @@ Packages:
 3. Total revenue per month by market and region
 4. Top 10 revenue by country
 5. top 5 best-selling product categories
+
+![image](https://github.com/alnimashakiya/Mini_Project_DataVisualization/assets/165742697/4520e42f-e2c9-4486-9419-2c102a963ec1)
